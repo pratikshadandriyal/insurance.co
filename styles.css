@@ -154,7 +154,7 @@ header {
 }
 
 header::before {
-  position: relative;
+  position:absolute;
   content: "";
   height: 100%;
   width: calc(100% - 2rem);
