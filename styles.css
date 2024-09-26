@@ -10,7 +10,6 @@
   --white: #fffefe;
   --max-width: 1200px;
 }
-
 * {
   padding: 0;
   margin: 0;
@@ -308,7 +307,7 @@ header::before {
   width: 100%;
   height: 100%;
   padding: 2rem;
-  background-color:rgb(15, 16, 17);;
+  background-color: rgb(15, 16, 17);
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
   transition: 0.3s;
@@ -369,7 +368,7 @@ header::before {
   padding: 1.5rem;
   font-weight: 600;
   color: var(--text-dark);
-  background-image: url("images/WhatsApp\ Image\ 2024-09-26\ at\ 1.05.00\ PM.jpeg");
+  background-image: url("images/header_idea.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
